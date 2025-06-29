@@ -3,7 +3,11 @@
 
 This project uses **Stable Diffusion** to generate images from text prompts in **Google Colab**. It demonstrates how to use the 🤗 Hugging Face `diffusers` library with a pre-trained model.
 
----
+
+📌 **Internship Task Link:** [Click here to view the task]
+(https://drive.google.com/file/d/1ZmDww-eXWTOEswhtqpprus4Hsr5w3xRq/view?usp=sharing)
+
+.
 
 ##  Features
 
